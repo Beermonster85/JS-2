@@ -1,0 +1,27 @@
+ДЗ №2
+
+№1
+num1 = prompt ("Введите первое число");
+num2 = prompt ("Введите второе число");
+alert (num1<=1);
+alert (num2>=3);
+
+
+№2
+let test = true;
+  ((test === true) ? &apos;+++&apos; : &apos;---&apos;);
+
+№3
+day = prompt ("Введите число месяца");
+if (day <=10) {
+   alert ("Первая половина месяца"); 
+}
+else if (day>11 && day <= 20){
+   alert ("Вторая половина месяца");
+}
+else  { 
+       alert ("Третья половина месяца"); 
+   } 
+
+
+
